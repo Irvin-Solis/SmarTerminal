@@ -14,9 +14,10 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 ## Who's on your team?
 *List the full names,  email address & Github username of your teammates*
 
-1.   **Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username**
-2. 
-3.
+**Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username**
+1.   Irvin-Solis
+2.   Oscar Campos-soto
+3.   AndrewOt
 4.
 5.
 
@@ -24,7 +25,7 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 
 
 ## What is the name of your App?
-
+**TBD2024**
 <br /><br />
 ## What does your app do?
 *Describe in a paragraph or so*
@@ -34,11 +35,11 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 
 ## What challenges are you building for? SELECT ALL THAT APPLY
 *See hackmidwest.com/#prizes for challenge details*
-- [ ]  Pinata Challenge
-- [ ]  Pinata AI Challenge
+- [x]  Pinata Challenge
+- [x]  Pinata AI Challenge
 - [ ]  Pinata Enterprise Challenge
-- [ ]  AWS Bedrock Challenge
-- [ ]  Red Hat | Intel AI Challenge
+- [x]  AWS Bedrock Challenge
+- [x]  Red Hat | Intel AI Challenge
 - [ ]  Zoom Challenge
 - [ ]  USDA Challenge
 - [ ]  brAIn Rot Challenge
